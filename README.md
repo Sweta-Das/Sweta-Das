@@ -29,5 +29,10 @@ I am Sweta Das. <br>
 
 📫 Reach me at: swetadas0707@gmail.com
 
-💼 Let's connect on LinkedIn: linkedin.com/in/swetadas0707
+💼 Let's connect on LinkedIn: 
+<a href="www.linkedin.com/in/swetadas0707" target="_blank">
+  <img src="https://github.com/Sweta-Das/Sweta-Das/assets/73231461/af7cc0be-f372-432b-a986-8ff4d6053492" alt="LinkedIn" style="height: 20px; width: 20px;">
+</a>
+
+
 
