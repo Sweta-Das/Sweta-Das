@@ -2,7 +2,7 @@
 
 I am Sweta Das. <br>
 
-🌟 Data Engineer | Computer Engineer | Aspiring Data Scientist 🌟 <br>
+🌟 Data/Machine Learning Engineer | Computer Engineer | Aspiring Data Scientist 🌟 <br>
 
 🔬 Specializing in Data Science, Machine Learning, Deep Learning, and Artificial Intelligence <br>
 
